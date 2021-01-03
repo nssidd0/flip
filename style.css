@@ -63,5 +63,5 @@ body
 .container div.flip:after
 {
 	transform: perspective(1000px) rotateX(0deg) translateY(0);
-	transition-delay: 0.5s;
+	/*transition-delay: 0.5s;*/
 }
